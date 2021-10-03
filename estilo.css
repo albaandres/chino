@@ -1,0 +1,49 @@
+h1{
+    text-decoration-line: underline;
+}
+body {
+
+    text-align: justify;
+    background-color: #f5f5f5;
+    margin-left: 300px;
+    }
+#titulo {
+        width: auto; 
+       
+        }
+
+footer{
+    margin-top: 250px;
+}
+
+#contenedor {
+    width: auto; 
+    margin: 15px auto;
+    text-align: left;
+    }
+ 
+  #contenedor {
+    font: 1.2em Helvetica, Arial, sans-serif;	 
+    padding: 0;
+   
+    margin-left: 10%;
+    margin-right: 10%;
+      
+    display: grid;
+  }
+
+    #titulo {
+        background: #e78989;
+        border: 1px solid #fc0404;
+        padding: 15px;
+        }
+
+        #pie {
+            /*clear: both;*/
+            text-align: center;
+            padding: 20px;
+            border-top: 2px solid #5d07fd;
+        
+        
+            }
+            
